@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(47, 192, 3, 0.712);
+}
+
+.menu-a { 
+    text-align: center;
+    color: white;
+      margin: 15px;
+      padding: 15px;
+}
+
+.menu-b {
+
+    margin-right: 100px;
+
+}
+
+.img {
+     left: 100px;
+     height: 200px;
+     width: 1350px;
+}    
